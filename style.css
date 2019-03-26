@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+    background: url(https://images.unsplash.com/photo-1520901157462-0ea3fb2f9024?ixlib=rb-1.2.1&w=1000&q=80) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+
+body{
+    padding-top: 10px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+.caixas{
+    color: white;
+    font-family: 'Montserrat', 'serif';
+    font-size: 200%;
+}
+#campos{
+    align-content: center;
+}
+input{
+    align-content: center;
+    justify-content: center;
+
+}
